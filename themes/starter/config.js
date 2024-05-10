@@ -10,14 +10,14 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: '开源且免费的基于 Notion 笔记的网站构建工具', // 英雄区文字
-  STARTER_HERO_TITLE_2: '通过笔记无感知地建站、成倍放大您的价值', // 英雄区文字
+  STARTER_HERO_TITLE_1: 'Live Idol场景一站式特典会管理平台', // 英雄区文字
+  STARTER_HERO_TITLE_2: '深度定制，简易操作，为运营与粉丝共同提升体验', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
     'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: 'https://github.com/kimilime', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/hero-image.webp', // 产品预览图 ，默认读取public目录下图片
@@ -71,7 +71,7 @@ const CONFIG = {
   STARTER_ABOUT_TIPS_3: '正在线上运行',
 
   // 首页价格区块
-  STARTER_PRICING_ENABLE: true, // 价格区块开关
+  STARTER_PRICING_ENABLE: false, // 价格区块开关
   STARTER_PRICING_TITLE: '价格表',
   STARTER_PRICING_TEXT_1: '很棒的定价计划',
   STARTER_PRICING_TEXT_2:
