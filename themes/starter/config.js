@@ -22,13 +22,6 @@ const CONFIG = {
 
   STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/hero-image.webp', // 产品预览图 ，默认读取public目录下图片
 
-  // 顶部右侧导航暗流
-  STARTER_NAV_BUTTON_1_TEXT: ' ',
-  STARTER_NAV_BUTTON_1_URL: ' ',
-
-  STARTER_NAV_BUTTON_2_TEXT: ' ',
-  STARTER_NAV_BUTTON_2_URL: ' ',
-
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
   STARTER_FEATURE_TITLE: '特性', // 特性
