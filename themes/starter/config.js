@@ -10,13 +10,13 @@ const CONFIG = {
 
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
-  STARTER_HERO_TITLE_1: 'Live Idol场景一站式特典会管理平台', // 英雄区文字
+  STARTER_HERO_TITLE_1: '一站式Live Idol特典会管理平台', // 英雄区文字
   STARTER_HERO_TITLE_2: '深度定制，简易操作，为运营与粉丝共同提升体验', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: '开始使用', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
     'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: '管理后台', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://github.com/kimilime', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
