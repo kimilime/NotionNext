@@ -20,7 +20,7 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_URL: 'https://github.com/kimilime', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/qrcode.png', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/qrcode.jpg', // 产品预览图 ，默认读取public目录下图片
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
